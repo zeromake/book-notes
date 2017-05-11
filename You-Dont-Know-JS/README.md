@@ -7,11 +7,16 @@
         - [x] [1.3 作用域嵌套](https://github.com/zeromake/book-notes/issues/3)
         - [x] [1.4 异常](https://github.com/zeromake/book-notes/issues/4)
         - [x] [1.5 小结](https://github.com/zeromake/book-notes/issues/5)
-    - [ ] 第 2 章　词法作用域
-        - [ ] [2.1 词法阶段](https://github.com/zeromake/book-notes/issues/6)
-        - [ ] [2.2 欺骗词法](https://github.com/zeromake/book-notes/issues/7)
-        - [ ] [2.3 小结](https://github.com/zeromake/book-notes/issues/8)
+    - [x] 第 2 章　词法作用域
+        - [x] [2.1 词法阶段](https://github.com/zeromake/book-notes/issues/6)
+        - [x] [2.2 欺骗词法](https://github.com/zeromake/book-notes/issues/7)
+        - [x] [2.3 小结](https://github.com/zeromake/book-notes/issues/8)
     - [ ] 第 3 章　函数作用域和块作用域
+        - [ ] [3.1 函数中的作用域](https://github.com/zeromake/book-notes/issues/9)
+        - [ ] [3.2 隐藏内部实现](https://github.com/zeromake/book-notes/issues/10)
+        - [ ] [3.3 函数作用域](https://github.com/zeromake/book-notes/issues/11)
+        - [ ] [3.4 块作用域](https://github.com/zeromake/book-notes/issues/12)
+        - [ ] [3.5 小结](https://github.com/zeromake/book-notes/issues/13)
     - [ ] 第 4 章　提升
     - [ ] 第 5 章　作用域闭包
 + [ ] 第二部分　this和对象原型
